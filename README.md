@@ -1,4 +1,4 @@
-¡Hola! Bienvenido/a al repositorio del proyecto Verifactu España
+¡Hola! Bienvenido/a al repositorio abierto del proyecto Verifactu España
 
 Este repositorio ha sido creado con la intención de desarrollar los códigos necesarios para utilizar el sistema Verifactu de España. Nuestro objetivo es facilitar el alta de facturas y todos los pasos adicionales necesarios para cumplir con los requisitos del sistema.
 
