@@ -1,4 +1,4 @@
-<?php
+<?php 
 // Información de la factura
 $nif = "00000006Y";
 $numSerieFactura = "1.1.1.8";
