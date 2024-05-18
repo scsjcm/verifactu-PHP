@@ -6,7 +6,7 @@ $fechaExpedicionFactura = "09-04-2024";
 $tipoFactura = "F2";
 $importeTotal = "2.01";
 $cuotaTotal = "0.00";
-$huellaAnterior = "E6FE58EE455F233BFA429FA7A9D90EDC006CBB2421876EB2590D37E682414CB1";
+$huellaAnterior = "E6FE58EE455F233BFA429FA7A9D90EDC006CBB2421876EB2590D37E682414CB3";
 $fechaHoraHusoGenRegistro = "2024-04-09T19:12:03+01";
 
 // Concatenar los valores en el orden especificado
