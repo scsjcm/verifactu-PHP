@@ -61,8 +61,8 @@ class VeriFactu {
 
 // Datos de la factura
 $invoiceData = [
-    'Emisor' => ['NIF' => 'B72877814', 'Nombre' => 'WEFINZ GANDIA SL'],
-    'Receptor' => ['NIF' => 'B44531218', 'Nombre' => 'WEFINZ SOLUTIONS SL'],
+    'Emisor' => ['NIF' => 'B00000000', 'Nombre' => 'EMPRESA PRUEBAS EMISION SL'],
+    'Receptor' => ['NIF' => 'B00000000', 'Nombre' => 'EMPRESA PRUEBAS RECEPCION SL'],
     'Factura' => [
         'Numero' => 'GIT-EJ-0002',
         'Fecha' => '2024-11-15',
